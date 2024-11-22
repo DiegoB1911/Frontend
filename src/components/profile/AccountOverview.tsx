@@ -6,6 +6,7 @@ const AccountOverview: React.FC = () => {
       <h2 className="text-lg font-semibold mb-2 text-black">
         Account overview
       </h2>
+      <p>Hola</p>
       <table className="w-full text-left border border-gray-300 rounded-lg">
         <thead className="bg-gray-100">
           <tr>
